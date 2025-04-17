@@ -1,9 +1,5 @@
 # DIABETESDIAGNOSIS
 
-Sure! Here's a professional and clear **GitHub project description** you can use for your repository:
-
----
-
 ## 🩺 Diabetes Prediction and Analysis using Machine Learning
 
 This project presents a comprehensive end-to-end pipeline for **diabetes diagnosis and prediction** using machine learning models. It explores the PIMA Indians Diabetes Dataset through data cleaning, visualization, feature scaling, model building, and ensemble techniques such as **Stacking** and **Voting Classifiers**.
@@ -46,10 +42,6 @@ The project uses the **PIMA Indians Diabetes dataset**, typically found on Kaggl
 - Jupyter Notebooks / Python Scripts
 - Machine Learning (Classification)
 - Data Visualization
-
----
-
-You can modify the tone or add project-specific details if needed. Would you like a shorter tagline or summary version for the GitHub sidebar too?
 
 HERE'S THE GOOGLE COLAB LINK.
 "https://colab.research.google.com/drive/1IOYBg49ngHG2nOD-qLrI8pYVJlHMH8LI?usp=sharing"
