@@ -50,3 +50,6 @@ The project uses the **PIMA Indians Diabetes dataset**, typically found on Kaggl
 ---
 
 You can modify the tone or add project-specific details if needed. Would you like a shorter tagline or summary version for the GitHub sidebar too?
+
+HERE'S THE GOOGLE COLAB LINK.
+"https://colab.research.google.com/drive/1IOYBg49ngHG2nOD-qLrI8pYVJlHMH8LI?usp=sharing"
